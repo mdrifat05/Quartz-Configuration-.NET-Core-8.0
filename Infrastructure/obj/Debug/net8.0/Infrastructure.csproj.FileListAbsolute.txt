@@ -1,0 +1,12 @@
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+F:\Clean Architecture\QuartzConfigurationService\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

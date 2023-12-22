@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartzConfiguration", "QuartzConfiguration\QuartzConfiguration.csproj", "{EA80B9A5-197B-43BF-9263-C9C7CC4031EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{4677E906-FF77-4DDD-8868-99A457D663F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA80B9A5-197B-43BF-9263-C9C7CC4031EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA80B9A5-197B-43BF-9263-C9C7CC4031EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA80B9A5-197B-43BF-9263-C9C7CC4031EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA80B9A5-197B-43BF-9263-C9C7CC4031EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4677E906-FF77-4DDD-8868-99A457D663F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4677E906-FF77-4DDD-8868-99A457D663F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4677E906-FF77-4DDD-8868-99A457D663F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4677E906-FF77-4DDD-8868-99A457D663F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B72477A-4458-4E86-9E92-72087114D088}
+	EndGlobalSection
+EndGlobal
